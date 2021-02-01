@@ -112,8 +112,8 @@ struct sur40_image_header {
 #define ID_SUR40     0x0775
 
 /* sensor resolution */
-#define SENSOR_RES_X 1920
-#define SENSOR_RES_Y 1080
+#define SENSOR_RES_X 1600
+#define SENSOR_RES_Y 800
 
 /* touch data endpoint */
 #define TOUCH_ENDPOINT 0x86
